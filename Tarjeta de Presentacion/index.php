@@ -27,6 +27,10 @@
     
   </head>
 
+  <script src="js/jquery.js"></script>
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<script src="js/main.js"></script>
+
   <body>
     <div class="contenedor" id="contenedor">
 
@@ -71,29 +75,39 @@
             <article id="info">
               <div class="slider activo">
                 <h1 class="nombre">Mauro Prystupa</h1>
-                <p class="trabajo">De Todo Un Poco</p>
+                <p class="trabajo">Full Stack -en proceso-</p>
                 <p class="pais">
                   <img src="img/bandera.jpg" alt="ARGENTINA" />ARGENTINA
                 </p>
               </div>
               <div class="slider">
-                <h1 class="nombre">Mauro</h1>
-                <p class="trabajo">2</p>
+                <h1 class="nombre">TECNOLOGIAS</h1>
+                <p class="trabajo">
+               <img src="img/logos.png"><br>
+               <img src="img/php-laravel-mysql.png">
+               <br>
+               <img src="img/dockergithub.png">
+                
+              </p>
                 <p class="pais">
                   <img src="img/bandera.jpg" alt="ARGENTINA" />ARGENTINA
                 </p>
               </div>
               <div class="slider">
-                <h1 class="nombre">Prystupa</h1>
-                <p class="trabajo">3</p>
+                <h1 class="nombre">EN POCAS PALABRAS</h1>
+                <p class="trabajo">Cuento con 14 años de experiencia en el rubro textil,
+en el que fui desarrollándome y creciendo en distintas
+áreas.
+Soy una persona curiosa, paciente y comprometida.
+con ganas de adquirir nuevos conocimientos
+constantemente y seguir desarrollando mis
+habilidades potenciandolas dentro de una empresa.
+Se trabajar en equipo y de forma individual. Aspiro a
+iniciar mi experiencia laboral en IT.</p>
                 <p class="pais">
                   <img src="img/bandera.jpg" alt="ARGENTINA" />ARGENTINA
                 </p>
-                <h1 class="nombre">Prystupa</h1>
-                <p class="trabajo">3</p>
-                <p class="pais">
-                  <img src="img/bandera.jpg" alt="ARGENTINA" />ARGENTINA
-                </p>
+                
               </div>
 
             </article>
@@ -102,15 +116,14 @@
         </section>
 
         <section class="redes">
-            <a href="#" class="instagram"><span class="fa fa-instagram"></span></a>
-            <a href="#" class="facebook"><span class="fa fa-facebook"></span></a>
-            <a href="#" class="github"><span class="fa fa-github"></span></a>
-            <a href="#" class="twitter"><span class="fa fa-twitter"></span></a>
+            <a href="https://www.instagram.com/mauro_seb/" target="_blank" class="instagram"><span class="fa fa-instagram"></span></a>
+           <!--  <a href="#" target="_blank" class="facebook"><span class="fa fa-facebook"></span></a> -->
+            <a href="https://github.com/mauroprystupa/" target="_blank" class="github"><span class="fa fa-github"></span></a>
+           <!--  <a href="#" target="_blank" class="twitter"><span class="fa fa-twitter"></span></a> -->
+            <a href="https://www.linkedin.com/in/mauro-sebastian-prystupa-a94ba5212/" target="_blank" class="twitter"><span class="fa fa-linkedin"></span></a>
         </section>
       </section>
     </div>
-<script src="js/jquery.js"></script>
-<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-<script src="js/main.js"></script>
+
   </body>
 </html>

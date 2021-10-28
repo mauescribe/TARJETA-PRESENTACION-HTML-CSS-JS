@@ -107,9 +107,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               </div>
               <div class="slider">
                 <h1 class="nombre">EN POCAS PALABRAS</h1>
-                <p class="trabajo">Cuento con 14 años de experiencia en el rubro textil,
-en el que fui desarrollándome y creciendo en distintas
-áreas.
+                <p class="trabajo">
 Soy una persona curiosa, paciente y comprometida.
 con ganas de adquirir nuevos conocimientos
 constantemente y seguir desarrollando mis
